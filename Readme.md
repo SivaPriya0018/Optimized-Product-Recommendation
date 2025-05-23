@@ -1,4 +1,4 @@
-# Optimized Product Recommendation for Enhanced User Experience on Amazon
+# Optimized Product Recommendation
 
 ## 📘 Overview
 
